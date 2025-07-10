@@ -1,3 +1,5 @@
+<p align="center"><a href="#"><img width="30%" alt="Hello, I'm Vivek " src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" /></a><a href="#"><img width="15%" alt="Hello, I'm Vivek " src="https://media.giphy.com/media/2J3VPYmnhO2jjKAX0X/giphy.gif" /></a></p>
+
 ## Hi there 👋
 
 <!--
